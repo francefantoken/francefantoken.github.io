@@ -223,22 +223,6 @@
     "/assets/Manrope-ExtraBold.fc0cd28d.otf",
     "/assets/Manrope-ExtraBold.18d034f9.ttf"
   ],
-  "~icons/ph/reddit-logo-fill": [
-    "/assets/phase-1.6d8ca76f.svg",
-    "/assets/mobile.31ce0243.svg",
-    "/assets/pc.71668a19.svg",
-    "/assets/tokenomic-mobile.dc089802.mp4",
-    "/assets/tokenomic.6ac00787.mp4",
-    "/assets/token.ee5abaf9.mp4",
-    "/assets/hero-mobile.ecc5526b.mp4",
-    "/assets/hero.d4433811.mp4",
-    "/assets/GalanoGrotesqueAltRegular.6362a278.otf",
-    "/assets/GalanoGrotesqueAltMedium.83105bc0.otf",
-    "/assets/GalanoGrotesqueAltBold.b36c325d.otf",
-    "/assets/Manrope-ExtraBold.a213bccd.woff2",
-    "/assets/Manrope-ExtraBold.fc0cd28d.otf",
-    "/assets/Manrope-ExtraBold.18d034f9.ttf"
-  ],
   "~icons/ri/facebook-fill": [
     "/assets/phase-1.6d8ca76f.svg",
     "/assets/mobile.31ce0243.svg",
@@ -1503,7 +1487,7 @@
     "/assets/Manrope-ExtraBold.fc0cd28d.otf",
     "/assets/Manrope-ExtraBold.18d034f9.ttf"
   ],
-  "assets/app.6499f9a2.js-unocss-hash.css": [
+  "assets/app.0f2ce5be.js-unocss-hash.css": [
     "/assets/phase-1.6d8ca76f.svg",
     "/assets/mobile.31ce0243.svg",
     "/assets/pc.71668a19.svg",
